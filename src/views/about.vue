@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-        This is a login page!
+        This is a about page!
     </div>
 </template>
 
